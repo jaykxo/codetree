@@ -1,0 +1,6 @@
+# [Output Result 25](https://www.codetree.ai/trails/complete/curated-cards/challenge-reading-k201626)
+
+|Type|Problem XP|Difficulty|
+|---|---|---|
+|[Trail 1 / Basic Operators / Four Arithmetic Operations](https://www.codetree.ai/trail-info/novice-low/)|[[Challenge]Output Result 25](https://www.codetree.ai/trails/complete/curated-cards/challenge-reading-k201626/)|Easy|
+
