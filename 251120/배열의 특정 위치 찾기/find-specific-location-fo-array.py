@@ -8,7 +8,7 @@ three = []
 for i in range(0, 10):
     if i % 2 == 1:
         two.append(arr[i])
-    elif i % 3 == 2:
+    if i % 3 == 2:
         three.append(arr[i])
 
 print(sum(two), (sum(three) / len(three)))
