@@ -11,4 +11,4 @@ for i in range(0, 10):
     if i % 3 == 2:
         three.append(arr[i])
 
-print(sum(two), (sum(three) / len(three)))
+print(sum(two), f"{(sum(three) / len(three)):.1f}")
