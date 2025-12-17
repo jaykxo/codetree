@@ -1,0 +1,11 @@
+import sys
+input = sys.stdin.readline
+
+a, b = input().split()
+a = list(a)
+b = list(b)
+
+b[0] = a[0]
+b[1] = a[1]
+
+print(''.join(map(str, b)))
