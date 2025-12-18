@@ -5,7 +5,7 @@ word = list(map(str, input().strip()))
 
 for _ in range(len(word) - 1):
     n = int(input())
-    if n <= len(word):
+    if n < len(word):
         word.pop(n)
     else:
         word.pop(-1)
